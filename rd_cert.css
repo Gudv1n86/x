@@ -180,6 +180,7 @@ p {
 }
 
 .signature {
+    border: 1rem solid indigo;
     width: 100%;
     height: auto;
 }
